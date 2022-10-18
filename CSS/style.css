@@ -1,0 +1,14 @@
+body {
+    background-color: darkmagenta;
+    margin: 0;
+}
+
+.pic-style {
+    width: 250px;
+    height: auto;
+}
+
+.header {
+    height: 100px;
+    background-color:blueviolet;
+}
